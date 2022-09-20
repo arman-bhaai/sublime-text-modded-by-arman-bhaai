@@ -1,0 +1,8 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"dark_color_scheme": "Sixteen.sublime-color-scheme",
+	"light_color_scheme": "Sixteen.sublime-color-scheme",
+	/*"font_size": 14,*/
+	"font_size": 13,
+}

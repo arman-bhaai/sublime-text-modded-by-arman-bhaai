@@ -1,0 +1,5 @@
+{
+  "cmd": ["g++","-std=c++17", "-Wall", "-time", "$file", "-o", "$file_base_name", "&&", "start","cmd", "/K" , "$file_base_name"],
+  "selector": "arman_bhaai.cp,arman_bhaai.c",
+  "shell": true
+}
