@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "javac $file && start cmd /K java $file_base_name"
+}

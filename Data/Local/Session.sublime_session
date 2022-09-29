@@ -3,9 +3,9 @@
 	[
 	],
 	"last_version": 4126,
-	"last_window_id": 4,
+	"last_window_id": 5,
 	"log_indexing": false,
-	"next_update_check": 1663736629,
+	"next_update_check": 1664514229,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -86,6 +86,19 @@
 			},
 			"file_history":
 			[
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Data/Packages/User/arman_bhaai_template3.sublime-snippet",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Data/Packages/User/arman_bhaai_template4.sublime-snippet",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/Java.java",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/C.c",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Data/Packages/User/arman_bhaai_template2.sublime-snippet",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Data/Packages/User/arman_bhaai_snippet1.sublime-snippet",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/C++.cpp",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/output.txt",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/input.txt",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Input-Output/output.txt",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Input-Output/input.txt",
+				"/C/sublime-text-modded-by-arman-bhaai/Input-Output/input.txt",
+				"/C/sublime-text-modded-by-arman-bhaai/Input-Output/output.txt",
 				"/C/sublime_text_modded_by_#arman_bhaai/Input-Output/input.txt",
 				"/C/sublime_text_modded_by_#arman_bhaai/Input-Output/output.txt",
 				"/C/sublime_text_modded_by_#arman_bhaai/code.cpp",
@@ -155,7 +168,7 @@
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/User/c++14-arman_bhaai_config.sublime-build",
+			"pinned_build_system": "Packages/User/java-arman_bhaai_config.sublime-build",
 			"replace":
 			{
 				"height": 0.0
@@ -217,44 +230,20 @@
 			"buffers":
 			[
 				{
-					"file": "/C/sublime-text-modded-by-arman-bhaai/Input-Output/input.txt",
+					"file": "/D/github-projects/sublime-text-modded-by-arman-bhaai/Input-Output/input.txt",
 					"settings":
 					{
 						"buffer_size": 0,
-						"encoding": "UTF-8",
 						"line_ending": "Windows"
-					},
-					"undo_stack":
-					[
-						[
-							3,
-							1,
-							"left_delete",
-							null,
-							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAOA",
-							"AQAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-						]
-					]
+					}
 				},
 				{
-					"file": "/C/sublime-text-modded-by-arman-bhaai/Input-Output/output.txt",
+					"file": "/D/github-projects/sublime-text-modded-by-arman-bhaai/Input-Output/output.txt",
 					"settings":
 					{
 						"buffer_size": 0,
-						"encoding": "UTF-8",
 						"line_ending": "Windows"
-					},
-					"undo_stack":
-					[
-						[
-							3,
-							1,
-							"left_delete",
-							null,
-							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAOA",
-							"AQAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-						]
-					]
+					}
 				}
 			],
 			"build_system": "Packages/C++/C++ Single File.sublime-build",
@@ -321,6 +310,19 @@
 			},
 			"file_history":
 			[
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Data/Packages/User/arman_bhaai_template3.sublime-snippet",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Data/Packages/User/arman_bhaai_template4.sublime-snippet",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/Java.java",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/C.c",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Data/Packages/User/arman_bhaai_template2.sublime-snippet",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Data/Packages/User/arman_bhaai_snippet1.sublime-snippet",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/C++.cpp",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/output.txt",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Templates/input.txt",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Input-Output/output.txt",
+				"/D/github-projects/sublime-text-modded-by-arman-bhaai/Input-Output/input.txt",
+				"/C/sublime-text-modded-by-arman-bhaai/Input-Output/input.txt",
+				"/C/sublime-text-modded-by-arman-bhaai/Input-Output/output.txt",
 				"/C/sublime_text_modded_by_#arman_bhaai/Input-Output/input.txt",
 				"/C/sublime_text_modded_by_#arman_bhaai/Input-Output/output.txt",
 				"/C/sublime_text_modded_by_#arman_bhaai/code.cpp",
@@ -385,7 +387,7 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/sublime-text-modded-by-arman-bhaai/Input-Output/input.txt",
+							"file": "/D/github-projects/sublime-text-modded-by-arman-bhaai/Input-Output/input.txt",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
@@ -420,7 +422,7 @@
 					[
 						{
 							"buffer": 1,
-							"file": "/C/sublime-text-modded-by-arman-bhaai/Input-Output/output.txt",
+							"file": "/D/github-projects/sublime-text-modded-by-arman-bhaai/Input-Output/output.txt",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
@@ -491,7 +493,7 @@
 				"rows":
 				[
 					0.0,
-					0.5,
+					0.483736800233,
 					1.0
 				]
 			},
@@ -504,8 +506,8 @@
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/User/c++14-arman_bhaai_config.sublime-build",
-			"position": "0,2,3,-1,-1,-1,-1,795,394,138,1209,7accebbf4335db40a527671de200b002",
+			"pinned_build_system": "Packages/User/java-arman_bhaai_config.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,795,394,138,1209,f67e64fbe139164c8d113501cb11d220",
 			"project": "",
 			"replace":
 			{
@@ -539,7 +541,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 2,
+			"selected_group": 0,
 			"settings":
 			{
 				"last_automatic_layout":

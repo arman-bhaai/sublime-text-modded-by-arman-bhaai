@@ -1,0 +1,35 @@
+<snippet>
+	<content><![CDATA[
+import java.io.*;
+import java.util.Scanner;
+
+class Java {
+    public static void main(String[] args)
+    {
+        Scanner read = new Scanner(System.in);
+
+        // comment out this block, if you are running on codeblocks-style 
+        if (System.getProperty("ONLINE_JUDGE") == null) {
+            try {
+                System.setOut(new PrintStream(
+                    new FileOutputStream("output.txt")));
+                read = new Scanner(new File("input.txt"));
+            }
+            catch (Exception e) {}
+        }
+  
+        // Your Code Start Here
+  
+        // Read input
+        String inp = read.nextLine();
+  
+        // Print output
+        System.out.println(inp);
+    }
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>magic4</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

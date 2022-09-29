@@ -5,4 +5,59 @@
 	"light_color_scheme": "Sixteen.sublime-color-scheme",
 	/*"font_size": 14,*/
 	"font_size": 13,
+
+
+	// These settings hide various parts of the UI automatically when typing.
+	// Moving the mouse will show them again.
+	"auto_hide_menu": false,
+	"auto_hide_tabs": false,
+	"auto_hide_status_bar": false,
+
+	// Related to auto_hide_tabs, if this is enabled, tabs will be momentarily
+	// displayed when switching files. Tabs will automatically hidden upon
+	// resuming typing or after a fixed amount of time.
+	"reveal_tabs_with_timeout": false,
+
+	// When false, disables alt-tapping revealing the menu when hidden on Linux
+	// and Windows. Does not affect auto hiding or toggling the menu through
+	// the command palette.
+	"reveal_menu": true,
+
+	// If true, when typing the mouse pointer/cursor will be hidden. Moving the
+	// pointer will unhide it. This setting has no effect on macOS.
+	"hide_pointer_while_typing": true,
+
+	// Makes tabs with modified files more visible
+	"highlight_modified_tabs": false,
+
+	//
+	// Application Behavior Settings
+	//
+
+	// Exiting the application with hot_exit enabled will cause it to close
+	// immediately without prompting. Unsaved modifications and open files will
+	// be preserved and restored when next starting.
+	//
+	// Closing a window with an associated project will also close the window
+	// without prompting, preserving unsaved changes in the workspace file
+	// alongside the project.
+	//
+	// Hot exit has different modes to choose from:
+	// - "always": Always perform a hot exit when the application exits. This
+	//             includes when the last window is closed on relevant
+	//             platforms.
+	// - "only_on_quit": Only perform a hot exit when the application is asked
+	//                   to exit, not when the last window is closed. This
+	//                   setting is only used on Windows and Linux.
+	// - "disabled": Disable hot exit.
+	"hot_exit": "always",
+
+	// remember_full_screen will allow Sublime Text to start in full screen
+	// mode if it was exited in full screen mode. When set to false, Sublime
+	// Text will never start in full screen mode.
+	"remember_full_screen": false,
+
+	// remember_layout makes Sublime Text start with the same layout it closed
+	// with. Only applies when hot_exit is disabled.
+	"remember_layout": false,
 }

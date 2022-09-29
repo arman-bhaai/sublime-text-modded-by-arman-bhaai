@@ -1,7 +1,7 @@
 {
-"cmd": ["g++.exe","-std=c++14", "${file}", "-o", "${file_base_name}.exe", "&&" , "${file_base_name}.exe<C:\\sublime-text-modded-by-arman-bhaai\\Input-Output\\input.txt>C:\\sublime-text-modded-by-arman-bhaai\\Input-Output\\output.txt"],
+"shell_cmd": "g++ -std=c++14 $file -o %TEMP%$file_base_name && %TEMP%$file_base_name.exe < $packages\\..\\..\\..\\sublime-text-modded-by-arman-bhaai-1.0\\Input-Output\\input.txt > $packages\\..\\..\\..\\sublime-text-modded-by-arman-bhaai-1.0\\Input-Output\\output.txt",
 "selector":"arman_bhaai.cpp,arman_bhaai.c",
 "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-"shell":true,
 "working_dir":"$file_path",
+"path":"$packages\\..\\..\\..\\sublime-text-modded-by-arman-bhaai-1.0\\MinGW\\bin",
 }
